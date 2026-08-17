@@ -55,6 +55,7 @@ Dataset → Python EDA → SQL Analysis → Power BI Dashboard
 
 ---
 
+
 ## Project Structure
 
 ```text
@@ -63,3 +64,4 @@ Python/
 SQL/
 PowerBi/
 Dashboard_screenshots/
+SQL_screenshots/
